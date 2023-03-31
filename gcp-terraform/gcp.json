@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "scenic-flux-378201",
+  "private_key_id": "3306d116ca1a786c5658a59484934d9aed739cb6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDC49ThcAMXWlci\n5oDqS+Klfh1NR79ccNQ5T4YpVew6/j+S/aKYl8YQgW5nv2a50ldjnz1OCdzisJNK\nD3+Po2RBIxfuk0OXt4MxNXc4fMCMrGAVIKY2KlWpV28cWkpNumDYYi/v674wwYuc\nt9vNT/wXdpJmQlEapHVJVS9qnuPZ0BBhELMNg3177s2e5Ku2+/0koK9wYp7V1u25\n2+6hQA5ZznPhrES8D09K5BugS4JcH3TOkx2v/FcHnuBKuHMVcHbl1OrVT0+rMys+\nf80xD/cloxZWj0DWHwKF3ZK02wNF7Em65mVsXMuzk/DfypCWVzQ12oxgKdHoWeTh\nhbmxGL/JAgMBAAECggEABneu2X3g/mIHPP9jBRN4XadYI9fHEhNk+ZNp536EWMdV\n9wPvhMqZnjPbZPpBN5azQ3k1/LxfTg8PzkACKtNAaRh363kL39GtWwFUF+Xs8mYo\niJ71IRxJzDU8eNeGunpeSyQEBP1g6geMQWrJErDOM/2heV8HR7/wK/s1l/9WnqRl\n6ehRoLL4kJv92IiMIKg42q6JN4jdz9GAQK3pb6afcBpAjR8QA/O+bpDcoEs4IgCw\na3w5RaAzAcGGRPlO9FyjzeHOD2XsBA5/5qN4QAIy/gfBXC7VBNfQd1bTjhB1cji1\n9Eit40mA6ATp3Yy4h8rfmxXnJwv/e0XtFTSg1dkPYQKBgQD+HLFKuLjArMczSLRv\nfMyiBzEnFiJZNtOMb9lGu+hvNlg16JQpkrYAKkapLtj5/JMMedj2EHXFr/Aei2hq\nx68oC5F8AQrJjNEZA4cRFaeoo/HGWMC3hJ2uA2ZiwhveJQVNYFnG6ONzuxs8VBh8\nhRHR1f1xyTmR3hsdZSLa0hqJqQKBgQDEVoBzLEYq14jkzHfP6XR+Rt34Iydo1pQj\nQCIKdEMdg/1LNyCnO3IDEPvxoz3HXW+bjrm98Gx+mlD8Gei8ye0EV0VliShMgNCE\nAhrAMzC/mM7L5qeQ55Zzo9hw81kqI6onesVVjadfxBzZChqQbJ+p24AHGaKpnxzL\nFwPNSo+ZIQKBgCJVkCLveI8YCUZFoZOawi92V07Xr8ZsIQNNrYbgJtS3/A00oqhH\nWW4GSEvdt5V3agr6f7UnnjIaxo/p+C7NUj5P6dVecq2u6CXAE0Tcry2bETTikw94\nzLFRZkkbvxYx3FiLFzZIC0t80X5CQpi4hiLbDgaM0MmDwBglrSLx1oIZAoGBAJiQ\n1zOoHcZAwgF42UlYkctmaindt0wCIg7aURlqipSu8e62ocsRqGC1m/GC9girlIR+\nfdsYrlYat/+Oaon5JxKOdkCWOhhoqJ9Lu1nK7YCUz20miONS8lhd41yx3IGgQSJ4\nhksazgreq8QD0+ySW+dzx6K8yuef2pH+ClhGLhvBAoGANA0yUAF94NjdvzZMzZ7h\n7tZe8YODgWFVeX39wKTf6iULMSVEJaMueqhZO7gs/Qdoa7XvanI1Y60SYE7il6Vu\nTaMM4O8miKt8RxgEOQfa/lIpprqNlykobpIry7G+IUm36Eg8fAZrDe4n0Hn1/66I\n6M0f8q4Z7P0dwKiJiA+iH4E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-sa@scenic-flux-378201.iam.gserviceaccount.com",
+  "client_id": "117057081641332454589",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-sa%40scenic-flux-378201.iam.gserviceaccount.com"
+}
